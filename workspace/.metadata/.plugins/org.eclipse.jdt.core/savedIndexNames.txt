@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+D:\learning\StudyNote\java\workspace\.metadata\.plugins\org.eclipse.jdt.core
+661134813.index
